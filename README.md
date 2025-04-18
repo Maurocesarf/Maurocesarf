@@ -3,10 +3,10 @@
 #  👋 Bem-vindo!
 <img  src  =  "banner.gif"  width  =  "325px"  align  = "right">
   <div id="badges">
-  <a href = "https://www.linkedin.com/in/mauro-cesar-ferreira">
+  <a href = "https://www.linkedin.com/in/mauro-cesar-ferreira" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href = "https://www.instagram.com/mauro.cesarf">
+  <a href = "https://www.instagram.com/mauro.cesarf" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
