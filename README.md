@@ -16,7 +16,7 @@ Sou um profissional de dados apaixonado por tecnologia e aprendizado contínuo. 
 -  💡 Profissional de Dados
 -  📊 Python | SQL | Power BI | Excel | Automação | Dashboards
 - 🚀 Apaixonado por tecnologia, dados e aprendizado contínuo
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python"  alt="Python"  width="40"  height="40"/>&nbsp;
