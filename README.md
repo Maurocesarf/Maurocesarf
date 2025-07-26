@@ -20,13 +20,13 @@ Sou um profissional de dados apaixonado por tecnologia e aprendizado contínuo. 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python"  alt="Python"  width="40"  height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"  title="SQL"  alt="SQL"  width="40"  height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg"  title="Pandas"  alt="Pandas"  width="40"  height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg"  title="Spark"  alt="Spark"  width="40"  height="40"/>&nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter"  alt="Jupyter"  width="40"  height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"  title="SQL"  alt="SQL"  width="40"  height="40"/>&nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="My SQL"  alt="My SQL"  width="40"  height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"  title="Git"  alt="Git"  width="40"  height="40"/>&nbsp;
   <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png" title="Power BI"  alt="Power BI"  width="40"  height="40"/>&nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="My SQL"  alt="My SQL"  width="40"  height="40"/>&nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter"  alt="Jupyter"  width="40"  height="40"/>&nbsp;
 </div>
 
 ---
