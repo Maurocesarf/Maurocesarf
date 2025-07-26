@@ -6,9 +6,7 @@
   <a href = "https://www.linkedin.com/in/mauro-cesar-ferreira" target = "_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href = "https://www.instagram.com/mauro.cesarf" target = "_blank">
-  <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
+  <a href = "mailto:maurocesarferreira4@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge" target="_blank"></a>
 </div>
 
 Sou um profissional de dados apaixonado por tecnologia e aprendizado contínuo. Meu foco é transformar dados em insights estratégicos.
