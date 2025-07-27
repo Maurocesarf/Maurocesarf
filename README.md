@@ -31,8 +31,6 @@ Sou um profissional de dados apaixonado por tecnologia e aprendizado contínuo. 
 
 
 <div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maurocesarf&show_icons=true&theme=tokyonight&count_private=true"/>
 <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=Maurocesarf&show_icons=true&show_icons=true&theme=tokyonight&count_private=true" />
-
-![Snake animation](https://github.com/Maurocesarf/Maurocesarf/blob/output/github-contribution-grid-snake.svg)
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maurocesarf&show_icons=true&theme=tokyonight&count_private=true"/>
 </div>
