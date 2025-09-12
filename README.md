@@ -5,7 +5,7 @@
 
 Sou um profissional de dados apaixonado por tecnologia e aprendizado contínuo, focado em transformar dados em insights que impulsionam decisões estratégicas.
 
--  📊 Python | SQL | Power BI | Automação | Dashboards
+-  📊 Spark | Python | SQL | Power BI | Automação
 - 🚀 Visão estratégica orientada a dados
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas
 
