@@ -3,9 +3,9 @@
 **`Engenharia e Análise de Dados`**
 <img src="banner.gif" width="325px" align="right" style="border-radius: 15px;"/>
 
-Sou um profissional de dados apaixonado por tecnologia e aprendizado contínuo, focado em transformar dados em insights que impulsionam decisões estratégicas.
+Sou engenheiro de dados apaixonado por tecnologia e aprendizado contínuo, focado em transformar dados em insights que impulsionam decisões estratégicas.
 
--  📊 Spark | Python | SQL | Power BI | Automação
+-  📊 Spark | Python | SQL | RPA
 - 🚀 Visão estratégica orientada a dados
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas
 
@@ -26,11 +26,13 @@ Sou um profissional de dados apaixonado por tecnologia e aprendizado contínuo, 
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python"  alt="Python"  width="40"  height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg"  title="Pandas"  alt="Pandas"  width="40"  height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg"  title="Spark"  alt="Spark"  width="40"  height="40"/>&nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter"  alt="Jupyter"  width="40"  height="40"/>&nbsp;
+  <img src="https://cdn.brandfetch.io/idSUrLOWbH/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668081624532"  title="Databricks"  alt="Databricks"  width="40"  height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg"  title="Eclipse abap cds"  alt="Eclipse abap cds"  width="40"  height="40"/>&nbsp;
+  <img src ="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter"  alt="Jupyter"  width="40"  height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"  title="SQL Server"  alt="SQL Server"  width="40"  height="40"/>&nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL"  width="40"  height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"  title="Git"  alt="Git"  width="40"  height="40"/>&nbsp;
-  <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png" title="Power BI"  alt="Power BI"  width="40"  height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg"  title="Postman"  alt="Postman"  width="40"  height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"  title="AWS"  alt="AWS"  width="40"  height="40"/>&nbsp;
 </div>
 
 ### 📊 Insights
