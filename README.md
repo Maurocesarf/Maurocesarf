@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Mauro César Ferreira
 
-**`Engenharia e Análise de Dados`**
+**`Engenharia de Dados`**
 <img src="banner.gif" width="325px" align="right" style="border-radius: 15px;"/>
 
 Sou engenheiro de dados apaixonado por tecnologia e aprendizado contínuo, focado em transformar dados em insights que impulsionam decisões estratégicas.
