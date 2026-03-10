@@ -34,10 +34,3 @@ Sou engenheiro de dados apaixonado por tecnologia e aprendizado contínuo, focad
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg"  title="Postman"  alt="Postman"  width="40"  height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"  title="AWS"  alt="AWS"  width="40"  height="40"/>&nbsp;
 </div>
-
-### 📊 Insights
-
-<div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=Maurocesarf&show_icons=true&show_icons=true&theme=tokyonight&count_private=true" />
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maurocesarf&show_icons=true&theme=tokyonight&count_private=true"/>
-</div>
